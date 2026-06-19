@@ -76,7 +76,3 @@ ASimulatorSystem/
 - icons/ - UI assets
 
 ---
-
-## ⚠️ Important Note
-
-Before running, update the database password in Conn.java to match your local MySQL credentials. Do not share your credentials publicly.
